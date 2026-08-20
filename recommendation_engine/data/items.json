@@ -1,0 +1,57 @@
+[
+  {
+    "item_id": "B1",
+    "title": "Dune",
+    "category": "Book",
+    "attributes": [
+      "scifi",
+      "adventure",
+      "politics"
+    ]
+  },
+  {
+    "item_id": "B2",
+    "title": "Foundation",
+    "category": "Book",
+    "attributes": [
+      "scifi",
+      "politics"
+    ]
+  },
+  {
+    "item_id": "B3",
+    "title": "Pride and Prejudice",
+    "category": "Book",
+    "attributes": [
+      "romance",
+      "classic"
+    ]
+  },
+  {
+    "item_id": "B4",
+    "title": "The Hobbit",
+    "category": "Book",
+    "attributes": [
+      "adventure",
+      "fantasy"
+    ]
+  },
+  {
+    "item_id": "M1",
+    "title": "Inception",
+    "category": "Movie",
+    "attributes": [
+      "scifi",
+      "thriller"
+    ]
+  },
+  {
+    "item_id": "M2",
+    "title": "The Notebook",
+    "category": "Movie",
+    "attributes": [
+      "romance",
+      "drama"
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "user_id": "U1",
+    "name": "Ada",
+    "liked_attributes": [
+      "scifi",
+      "adventure"
+    ],
+    "weights": {}
+  },
+  {
+    "user_id": "U2",
+    "name": "Ben",
+    "liked_attributes": [
+      "romance",
+      "classic"
+    ],
+    "weights": {}
+  }
+]
